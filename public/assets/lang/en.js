@@ -1,0 +1,4 @@
+var locale = 
+{
+    "yes": "Yes"
+}
